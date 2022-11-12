@@ -1,0 +1,10 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+/static-website-example/.idea
+/static-website-example/DS.Store
+*.iml
+out
+gen
+.DS_Store
